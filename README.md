@@ -1,8 +1,8 @@
 # UFOs
 
 
-Overview of Project: Explain the purpose of this analysis.
-
+Overview of Project:
+Dana’s webpage and dynamic table are working as intended. However, she would like to provide a more in-depth analysis of UFO sightings. She has the vision to have users filter for multiple criteria. 
 
 
 
